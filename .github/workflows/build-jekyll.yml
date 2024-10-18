@@ -26,7 +26,7 @@ jobs:
         uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
           provider: 'github'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}  # 使用 GitHub Secret 引用
           branch: 'gh-pages'
           jekyll_src: './'
           jekyll_cfg: '_config.yml'
