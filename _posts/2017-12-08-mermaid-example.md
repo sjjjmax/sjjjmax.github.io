@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mermaid example
+published: false
 categories: example
 tags: [mermaid]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Video example
+published: false
 subtitle:
 categories: example
 tags: [video]

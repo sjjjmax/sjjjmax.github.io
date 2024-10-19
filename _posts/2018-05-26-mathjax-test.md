@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathjax Test
+published: false
 subtitle: My first mathjax expression
 categories: markdown
 tags: [test]

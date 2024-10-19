@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plantuml example
+published: false
 categories: example
 tags: [plantuml]
 ---

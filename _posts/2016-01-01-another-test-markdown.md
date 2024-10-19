@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another test markdown
+published: false
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [test]

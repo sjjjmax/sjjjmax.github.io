@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An exhibit of Markdown
+published: false
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [example, markdown]
