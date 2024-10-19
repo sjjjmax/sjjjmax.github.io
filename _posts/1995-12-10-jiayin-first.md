@@ -10,7 +10,7 @@ banner:
 #  loop: true
 #  volume: 0.8
 #  start_at: 8.5
-  image: assets/images/269894836-2ed22d49-90b1-4f7e-8e8f-b77b21dee505.gif
+  image: /assets/images/jiayinsiteimagepost1.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
