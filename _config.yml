@@ -26,7 +26,7 @@
 
 title: 上海佳茵
 email: tenetjj@outlook.com
-author: 高青
+author: 上海佳茵
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,12 +40,10 @@ author: 高青
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "All Rights Reserved (cleft) 1993-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "上海佳茵贸易有限公司是杭华油墨、日本TOKA和UV油墨的上海服务商，库存充足，提供高品质油墨、印刷机及极速物流服务，年中无休，现场解决客户问题，助力印刷行业的发展。"
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uvink.cn" # the base hostname & protocol for your site, e.g. https://example.com
