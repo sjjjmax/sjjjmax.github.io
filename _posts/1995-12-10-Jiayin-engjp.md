@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shanghai Jiayin Trading Co., Ltd. (上海佳茵)- English & 日本語"
-date: 1995-12-10 00:00:02
+date: 1995-12-10 00:00:01
 subtitle: "Your Trusted Partner for High-Quality Inks 信頼できる高品質インクのパートナー"
 author: 高青
 categories: jekyll
