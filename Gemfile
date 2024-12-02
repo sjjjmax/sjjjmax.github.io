@@ -13,6 +13,3 @@ gem "public_suffix", "~> 6.0"
 # Avoid yajl-ruby compatibility issues
 gem "yajl-ruby", "~> 1.4.1"
 
-# Specify Ruby version for Cloudflare Pages
-ruby "3.1.3"
-
